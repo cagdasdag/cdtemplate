@@ -1,8 +1,8 @@
 # cdtemplate
 
-<h1> Henüz Yapım Aşamasındadır.</h1>
+<h1> It is still under construction.</h1>
 
-Example; 
+Example;
 
 <#foreach users#>
   <p>Adım <!ad!>. Yaşım <!yas!>.</p>

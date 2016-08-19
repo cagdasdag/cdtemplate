@@ -1,2 +1,6 @@
 <#foreach users2#>
-  <p style="color:red;">Adım <!ad!>. Yaşım <!yas!>.</p>
+  <p>Adım <!ad!>. Yaşım <!yas!>.</p>
+<#endforeach #>
+<#foreach users#>
+  <p>Adım <!ad!>. Yaşım <!yas!>.</p>
+<#endforeach #>
