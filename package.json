@@ -1,11 +1,23 @@
 {
   "name": "cdtemplate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "CD Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagdasdag/cdtemplate.git"
+  },
+  "keywords": [
+    "cdtemplate",
+    "templateengine"
+  ],
+  "author": "Çağdaş Dağ <cagdasdag81@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cagdasdag/cdtemplate/issues"
+  },
+  "homepage": "https://github.com/cagdasdag/cdtemplate#readme"
 }
