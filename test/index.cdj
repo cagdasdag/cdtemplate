@@ -1,0 +1,17 @@
+{"users": [
+      {"ad":"Çağdaş", "yas":"21"},
+      {"ad":"Arif","yas":"29"},
+      {"ad":"Mehmet","yas":"30"},
+      {"ad":"Ahmet","yas":"33"},
+      {"ad":"Ayşe","yas":"25"},
+      {"ad":"Fatma","yas":"22"}
+    ],
+  "users2": [
+        {"ad":"Deneme1", "yas":"21"},
+        {"ad":"Deneme2","yas":"29"},
+        {"ad":"Mehmet","yas":"30"},
+        {"ad":"Ahmet","yas":"33"},
+        {"ad":"Ayşe","yas":"25"},
+        {"ad":"Fatma","yas":"22"}
+      ]
+}

@@ -1,0 +1,2 @@
+<#foreach users2#>
+  <p style="color:red;">Adım <!ad!>. Yaşım <!yas!>.</p>
